@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome",
+  "start_test": "Start Test",
+  "logout": "Logout",
+  "login": "Login",
+  "register": "Register",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "about": "About",
+  "contact": "Contact",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "already_registered": "Already registered?",
+  "dont_have_account": "Don't have an account?",
+  "submit": "Submit",
+  "download_report": "Download Report"
+}

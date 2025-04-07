@@ -1,0 +1,18 @@
+{
+  "welcome": "خوش آمدید",
+  "start_test": "شروع آزمون",
+  "logout": "خروج",
+  "login": "ورود",
+  "register": "ثبت‌نام",
+  "dark_mode": "حالت تاریک",
+  "light_mode": "حالت روشن",
+  "about": "درباره ما",
+  "contact": "تماس با ما",
+  "name": "نام",
+  "email": "ایمیل",
+  "password": "رمز عبور",
+  "already_registered": "قبلاً ثبت‌نام کرده‌اید؟",
+  "dont_have_account": "حساب کاربری ندارید؟",
+  "submit": "ارسال",
+  "download_report": "دانلود گزارش"
+}
